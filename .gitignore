@@ -1,0 +1,6 @@
+*.pyc
+.DS_Store
+fb15k237.tar
+fb15k237/
+wn18rr.tar
+wn18rr/
